@@ -29,7 +29,7 @@ This is a simple Python application built using Tkinter for GUI and OpenCV for i
    ```bash
    git clone https://github.com/MemaroX/imageprocessing_final_project.git
 
-2. ** Install the required Python packages:
+2. **Install the required Python packages** :
 
    ```bash
    pip install -r requirements.txt
