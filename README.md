@@ -41,15 +41,23 @@ This is a simple Python application built using Tkinter for GUI and OpenCV for i
 
 # Usage
 Load Image: Click on the "Load Image" button to select an image file from your computer.
-Apply Filter: Choose a filter from the list of available filters.
-Adjust Parameters: If applicable, adjust the parameters using the slider.
-Apply: Click on the "Apply" button to apply the selected filter.
-Save Image: After applying the filter, click on the "Save Image" button to save the processed image.
-Requirements
-Python 3.6 or higher
-OpenCV
-Tkinter
-NumPy
-Contributing
-Contributions are welcome! Feel free to open issues and pull requests
 
+Apply Filter: Choose a filter from the list of available filters.
+
+Adjust Parameters: If applicable, adjust the parameters using the slider.
+
+Apply: Click on the "Apply" button to apply the selected filter.
+
+Save Image: After applying the filter, click on the "Save Image" button to save the processed image.
+
+# Requirements
+- Python 3.6 or higher
+- OpenCV
+- Tkinter
+- NumPy
+
+
+
+# Contributing
+
+Contributions are welcome! Feel free to open issues and pull requests
