@@ -20,7 +20,7 @@ This is a simple Python application built using Tkinter for GUI and OpenCV for i
   - Hough Circle Transform
   - Region Split and Merge
   - Thresholding
-- **Save the processed image** with a default filename format: `{original image} of {filter name}.{format}`.
+- **Save the processed image** with a default filename format: `{filter image} of {original name}.{format}`.
 
 ## Installation
 
