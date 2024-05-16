@@ -39,7 +39,7 @@ This is a simple Python application built using Tkinter for GUI and OpenCV for i
    ```bash
    python main.py
 
-** Usage
+# Usage
 Load Image: Click on the "Load Image" button to select an image file from your computer.
 Apply Filter: Choose a filter from the list of available filters.
 Adjust Parameters: If applicable, adjust the parameters using the slider.
